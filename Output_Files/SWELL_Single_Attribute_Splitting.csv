@@ -1,0 +1,1436 @@
+id,y_true,y_pred,Age,Gender,Occupation
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,1,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,1,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,1,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,1,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,1,26,m,student (Phd?)
+PP13,1,1,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,1,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,1,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,1,26,m,student (Phd?)
+PP13,0,1,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,1,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,1,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,1,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,1,0,26,m,student (Phd?)
+PP13,0,0,26,m,student (Phd?)
+PP19,0,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,1,27,f,student
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP16,0,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP16,1,1,27,f,student
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP16,0,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP16,0,1,27,f,student
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP16,0,0,27,f,student
+PP16,1,0,27,f,student
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP16,0,0,27,f,student
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,1,0,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,1,0,27,f,student
+PP19,1,0,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,1,0,27,f,student
+PP19,0,0,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,1,27,f,student
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,0,0,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,0,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP16,0,0,27,f,student
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,1,27,f,student
+PP16,1,1,27,f,student
+PP16,1,0,27,f,student
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,0,27,f,student
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP19,1,0,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP16,0,0,27,f,student
+PP19,0,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,0,1,23,f,Icelandic
+PP16,1,0,27,f,student
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,1,0,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP19,0,0,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP16,0,0,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,1,27,f,student
+PP19,1,0,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,0,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,1,0,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,1,27,f,student
+PP19,0,0,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,1,0,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP19,0,0,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,1,0,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,0,0,23,f,Icelandic
+PP16,0,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,0,0,23,f,Icelandic
+PP16,1,0,27,f,student
+PP19,0,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP19,0,0,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,1,0,27,f,student
+PP16,0,0,27,f,student
+PP19,0,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP16,0,0,27,f,student
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,0,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP19,1,0,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP19,1,1,23,f,Icelandic
+PP16,0,0,27,f,student
+PP16,0,0,27,f,student
+PP19,1,1,23,f,Icelandic
+PP19,0,1,23,f,Icelandic
+PP16,1,1,27,f,student
+PP22,1,1,26,m,Physics
+PP22,1,0,26,m,Physics
+PP14,0,0,26,m,student
+PP14,0,1,26,m,student
+PP18,0,1,24,m,Master MKE
+PP14,1,1,26,m,student
+PP14,0,1,26,m,student
+PP22,1,1,26,m,Physics
+PP22,0,0,26,m,Physics
+PP14,1,0,26,m,student
+PP14,0,1,26,m,student
+PP22,1,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP22,1,0,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP14,0,1,26,m,student
+PP18,1,0,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP22,0,0,26,m,Physics
+PP14,0,1,26,m,student
+PP14,0,0,26,m,student
+PP14,0,1,26,m,student
+PP14,1,1,26,m,student
+PP22,1,1,26,m,Physics
+PP14,0,0,26,m,student
+PP14,1,1,26,m,student
+PP18,0,0,24,m,Master MKE
+PP14,0,1,26,m,student
+PP18,0,1,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP22,1,0,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP14,0,1,26,m,student
+PP18,1,0,24,m,Master MKE
+PP14,1,0,26,m,student
+PP22,1,1,26,m,Physics
+PP14,1,1,26,m,student
+PP14,0,1,26,m,student
+PP18,1,0,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP22,0,1,26,m,Physics
+PP14,1,1,26,m,student
+PP18,0,0,24,m,Master MKE
+PP14,1,0,26,m,student
+PP22,0,1,26,m,Physics
+PP22,0,1,26,m,Physics
+PP22,0,1,26,m,Physics
+PP22,0,1,26,m,Physics
+PP22,0,1,26,m,Physics
+PP14,0,0,26,m,student
+PP14,1,0,26,m,student
+PP14,1,0,26,m,student
+PP22,1,1,26,m,Physics
+PP14,0,1,26,m,student
+PP14,0,1,26,m,student
+PP14,0,1,26,m,student
+PP22,1,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP14,0,1,26,m,student
+PP14,0,1,26,m,student
+PP14,1,1,26,m,student
+PP22,0,0,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP14,0,1,26,m,student
+PP18,0,0,24,m,Master MKE
+PP18,0,0,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP18,0,1,24,m,Master MKE
+PP14,1,0,26,m,student
+PP18,1,0,24,m,Master MKE
+PP22,1,0,26,m,Physics
+PP22,0,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP18,0,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP14,1,1,26,m,student
+PP18,1,0,24,m,Master MKE
+PP14,0,1,26,m,student
+PP18,0,1,24,m,Master MKE
+PP22,0,0,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP14,1,1,26,m,student
+PP22,0,0,26,m,Physics
+PP14,1,1,26,m,student
+PP22,1,1,26,m,Physics
+PP18,0,1,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP22,0,0,26,m,Physics
+PP22,0,1,26,m,Physics
+PP14,0,1,26,m,student
+PP22,1,1,26,m,Physics
+PP14,1,1,26,m,student
+PP14,1,0,26,m,student
+PP14,0,1,26,m,student
+PP22,1,1,26,m,Physics
+PP14,0,1,26,m,student
+PP18,0,0,24,m,Master MKE
+PP14,0,0,26,m,student
+PP14,0,1,26,m,student
+PP14,1,0,26,m,student
+PP22,1,1,26,m,Physics
+PP14,1,0,26,m,student
+PP14,0,1,26,m,student
+PP14,0,1,26,m,student
+PP22,0,1,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP14,1,0,26,m,student
+PP18,0,1,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP14,1,0,26,m,student
+PP18,0,1,24,m,Master MKE
+PP14,0,1,26,m,student
+PP22,1,1,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP14,1,1,26,m,student
+PP14,0,1,26,m,student
+PP14,1,1,26,m,student
+PP14,0,1,26,m,student
+PP18,1,1,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP14,1,1,26,m,student
+PP14,1,1,26,m,student
+PP14,1,0,26,m,student
+PP14,1,1,26,m,student
+PP18,0,0,24,m,Master MKE
+PP14,0,0,26,m,student
+PP22,1,0,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP14,0,0,26,m,student
+PP14,1,1,26,m,student
+PP18,0,0,24,m,Master MKE
+PP22,1,0,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP18,0,0,24,m,Master MKE
+PP14,0,1,26,m,student
+PP18,0,1,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP22,0,1,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP14,0,1,26,m,student
+PP14,0,1,26,m,student
+PP18,0,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP14,1,0,26,m,student
+PP14,0,1,26,m,student
+PP18,1,1,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP18,1,1,24,m,Master MKE
+PP14,1,1,26,m,student
+PP14,1,1,26,m,student
+PP14,0,0,26,m,student
+PP14,1,0,26,m,student
+PP14,0,1,26,m,student
+PP22,0,0,26,m,Physics
+PP14,0,0,26,m,student
+PP18,0,1,24,m,Master MKE
+PP14,1,1,26,m,student
+PP18,1,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP18,0,1,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP22,0,1,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP22,0,0,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP14,1,1,26,m,student
+PP14,1,0,26,m,student
+PP22,0,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP22,0,0,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP18,0,1,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP14,0,1,26,m,student
+PP22,1,1,26,m,Physics
+PP22,0,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP14,0,1,26,m,student
+PP22,1,0,26,m,Physics
+PP14,0,0,26,m,student
+PP14,1,1,26,m,student
+PP22,1,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP14,0,1,26,m,student
+PP22,0,0,26,m,Physics
+PP22,1,0,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP22,0,0,26,m,Physics
+PP14,1,1,26,m,student
+PP22,0,0,26,m,Physics
+PP22,0,0,26,m,Physics
+PP22,0,0,26,m,Physics
+PP22,1,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP14,1,0,26,m,student
+PP22,0,0,26,m,Physics
+PP22,0,0,26,m,Physics
+PP14,1,1,26,m,student
+PP14,0,1,26,m,student
+PP22,0,1,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP18,1,1,24,m,Master MKE
+PP14,1,1,26,m,student
+PP22,1,1,26,m,Physics
+PP18,0,1,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP14,1,1,26,m,student
+PP18,0,0,24,m,Master MKE
+PP14,0,1,26,m,student
+PP18,0,1,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP22,0,0,26,m,Physics
+PP22,1,1,26,m,Physics
+PP14,1,0,26,m,student
+PP14,1,1,26,m,student
+PP14,1,1,26,m,student
+PP22,1,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP14,0,1,26,m,student
+PP14,1,1,26,m,student
+PP22,1,0,26,m,Physics
+PP14,1,0,26,m,student
+PP18,0,0,24,m,Master MKE
+PP18,0,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP14,1,1,26,m,student
+PP18,1,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP22,0,1,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP14,0,1,26,m,student
+PP22,0,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP14,0,1,26,m,student
+PP22,1,0,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP22,0,0,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP14,1,0,26,m,student
+PP18,1,0,24,m,Master MKE
+PP18,0,1,24,m,Master MKE
+PP18,1,1,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP14,0,0,26,m,student
+PP14,0,0,26,m,student
+PP14,0,1,26,m,student
+PP18,1,1,24,m,Master MKE
+PP14,1,1,26,m,student
+PP18,0,0,24,m,Master MKE
+PP14,1,0,26,m,student
+PP14,1,1,26,m,student
+PP22,1,0,26,m,Physics
+PP22,1,1,26,m,Physics
+PP22,0,0,26,m,Physics
+PP22,0,1,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP18,0,1,24,m,Master MKE
+PP18,1,1,24,m,Master MKE
+PP14,1,0,26,m,student
+PP18,0,1,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP14,1,0,26,m,student
+PP14,1,1,26,m,student
+PP18,1,0,24,m,Master MKE
+PP14,0,1,26,m,student
+PP14,0,1,26,m,student
+PP14,0,1,26,m,student
+PP14,0,1,26,m,student
+PP18,0,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP14,1,1,26,m,student
+PP14,1,1,26,m,student
+PP18,1,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP14,1,0,26,m,student
+PP22,1,0,26,m,Physics
+PP14,1,1,26,m,student
+PP14,0,1,26,m,student
+PP22,0,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP22,0,1,26,m,Physics
+PP18,1,0,24,m,Master MKE
+PP14,1,0,26,m,student
+PP14,1,1,26,m,student
+PP18,1,1,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP14,1,1,26,m,student
+PP14,1,1,26,m,student
+PP22,0,0,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP18,0,1,24,m,Master MKE
+PP22,0,1,26,m,Physics
+PP22,1,0,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP18,0,0,24,m,Master MKE
+PP18,0,0,24,m,Master MKE
+PP22,0,0,26,m,Physics
+PP14,0,1,26,m,student
+PP22,1,0,26,m,Physics
+PP14,0,1,26,m,student
+PP14,1,0,26,m,student
+PP14,1,0,26,m,student
+PP18,0,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP14,1,1,26,m,student
+PP22,1,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP14,0,0,26,m,student
+PP14,1,0,26,m,student
+PP18,0,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP14,1,1,26,m,student
+PP18,1,1,24,m,Master MKE
+PP18,0,0,24,m,Master MKE
+PP18,1,1,24,m,Master MKE
+PP14,1,0,26,m,student
+PP22,0,1,26,m,Physics
+PP14,1,0,26,m,student
+PP18,1,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP22,1,1,26,m,Physics
+PP14,0,0,26,m,student
+PP18,1,0,24,m,Master MKE
+PP18,0,1,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP22,0,0,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP18,0,0,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP18,1,1,24,m,Master MKE
+PP22,0,0,26,m,Physics
+PP22,0,1,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP22,1,0,26,m,Physics
+PP18,1,1,24,m,Master MKE
+PP18,0,1,24,m,Master MKE
+PP18,1,0,24,m,Master MKE
+PP22,1,1,26,m,Physics
+PP1,0,0,27,m,student
+PP1,1,0,27,m,student
+PP1,1,1,27,m,student
+PP1,1,1,27,m,student
+PP1,1,1,27,m,student
+PP1,1,1,27,m,student
+PP1,1,0,27,m,student
+PP1,1,1,27,m,student
+PP1,0,1,27,m,student
+PP1,1,0,27,m,student
+PP1,1,1,27,m,student
+PP1,1,0,27,m,student
+PP1,0,0,27,m,student
+PP1,0,0,27,m,student
+PP1,1,1,27,m,student
+PP1,0,0,27,m,student
+PP1,1,1,27,m,student
+PP1,0,0,27,m,student
+PP1,0,0,27,m,student
+PP1,0,0,27,m,student
+PP1,1,0,27,m,student
+PP1,0,1,27,m,student
+PP1,1,1,27,m,student
+PP1,1,1,27,m,student
+PP1,1,0,27,m,student
+PP1,0,0,27,m,student
+PP1,0,0,27,m,student
+PP1,0,0,27,m,student
+PP1,0,0,27,m,student
+PP1,1,1,27,m,student
+PP1,0,0,27,m,student
+PP1,1,1,27,m,student
+PP1,1,1,27,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP11,1,1,21,m,student
+PP11,0,1,21,m,student
+PP11,1,1,21,m,student
+PP24,0,1,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,0,0,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP11,0,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,0,0,21,m,student
+PP11,0,1,21,m,student
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,0,1,22,m,MSc Electrical Engineering
+PP24,0,1,22,m,MSc Electrical Engineering
+PP11,0,0,21,m,student
+PP11,1,1,21,m,student
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,0,0,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,0,21,m,student
+PP11,0,1,21,m,student
+PP11,0,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,0,1,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP11,0,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,1,0,21,m,student
+PP11,1,1,21,m,student
+PP11,0,0,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,0,1,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,1,0,21,m,student
+PP11,0,1,21,m,student
+PP11,0,1,21,m,student
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,0,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,0,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,0,0,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,0,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP11,1,0,21,m,student
+PP24,0,1,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,0,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP11,1,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,0,1,21,m,student
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,0,21,m,student
+PP11,0,1,21,m,student
+PP11,0,1,21,m,student
+PP11,1,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP11,0,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP11,0,1,21,m,student
+PP11,0,0,21,m,student
+PP24,0,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,0,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,0,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,0,0,21,m,student
+PP11,0,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,1,22,m,MSc Electrical Engineering
+PP11,0,0,21,m,student
+PP11,0,0,21,m,student
+PP11,0,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,0,21,m,student
+PP11,0,1,21,m,student
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,1,0,22,m,MSc Electrical Engineering
+PP24,0,0,22,m,MSc Electrical Engineering
+PP11,0,1,21,m,student
+PP11,0,1,21,m,student
+PP11,0,0,21,m,student
+PP24,0,0,22,m,MSc Electrical Engineering
+PP24,1,1,22,m,MSc Electrical Engineering
+PP11,1,1,21,m,student
+PP11,1,1,21,m,student
+PP24,1,0,22,m,MSc Electrical Engineering
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,1,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,1,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,1,0,24,f,student
+PP12,0,0,24,f,student
+PP12,1,0,24,f,student
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,1,0,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP10,1,1,25,m,Information Science
+PP10,0,1,25,m,Information Science
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate
+PP17,1,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,0,1,38,f,PhD candidate
+PP17,1,0,38,f,PhD candidate

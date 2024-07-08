@@ -1,0 +1,26 @@
+PP;Age;Gender;Occupation;Dominant hand;Glasses;smoke;coffee;alcohol;physical;stress;heart disease;medicine;Internal control index
+PP1;27;m;student;right;no;6;6;6;6;6;no;no;2,93
+PP2;25;m;student;right;no;6;6;6;4;5;no;no;4,25
+PP3;24;m;student;right;no;6;6;6;6;6;no;no;3,61
+PP4;24;m;student;right;no;6;6;6;2;6;no;no;3,61
+PP5;24;f;student;right;no;6;6;6;6;6;no;no;3,71
+PP6;24;m;student;right;no;6;6;6;6;6;no;no;3,86
+PP7;22;m;student;right;no;6;6;6;6;6;no;no;3,64
+PP8;27;m;MSc Electrical Engineering;right;yes;6;6;6;3;6;no;no;3,57
+PP9;28;m;PhD informatics;right;no;6;6;6;2;6;no;no;3,25
+PP10;25;m;Information Science;right;no;6;6;6;6;6;no;no;3,39
+PP11;21;m;student;right;yes;6;6;6;6;6;no;no;3,71
+PP12;24;f;student;right;no;6;6;6;6;6;no;no;3,89
+PP13;26;m;student (Phd?);right;no;6;6;6;6;6;no;no;4,21
+PP14;26;m;student;left;yes;6;6;6;2;6;no;no;3,5
+PP15;24;m;student;right;no;6;6;6;1;6;no;no;4,25
+PP16;27;f;student;right;yes;6;6;6;2;1;no;no;3,61
+PP17;38;f;PhD candidate;right;yes;6;6;6;6;4;no;no;3,46
+PP18;24;m;Master MKE;left;no;6;6;6;6;6;no;no;3,61
+PP19;23;f;Icelandic;right;yes;6;6;6;6;6;no;no;3,61
+PP20;21;f;Technische bestuurskunde;right;no;6;6;6;6;6;no;no;3,57
+PP21;22;f;Photography;right;yes;4;5;5;5;4;no;no;3,39
+PP22;26;m;Physics;right;no;6;6;6;6;6;no;no;3,61
+PP23;25;f;Computer Engineering;right;no;6;6;6;2;4;no;no;3,89
+PP24;22;m;MSc Electrical Engineering;right;no;6;6;6;2;2;no;no;3,82
+PP25;26;m;MSc Technische Informatica;right;yes;6;6;6;2;6;no;no;3,79
