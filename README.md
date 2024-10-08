@@ -17,7 +17,7 @@ This thesis explores the potential of personalized machine learning (ML) models 
 - `Output_Files/`: Model outputs and result files.
 - `Scored_Surveys/`: Survey results used to evaluate bias.
 - `Thesis.pdf`: The final written thesis document.
-- **Notebooks** For the LifeSnaps Dataset:
+- **Notebooks** for the LifeSnaps Dataset:
   - `LifeSnaps_Data_Bias.ipynb`: Data bias analysis for the LifeSnaps dataset.
   - `LifeSnaps_Model_Bias.ipynb`: Model bias analysis for the LifeSnaps dataset.
   - `LifeSnaps_User_Based_Splitting.ipynb`: User-based splitting models using the LifeSnaps dataset.
@@ -25,7 +25,7 @@ This thesis explores the potential of personalized machine learning (ML) models 
   - `LifeSnaps_Multi_Attribute_Splitting.ipynb`: Multi-Attribute splitting models using the LifeSnaps dataset.
   - `LifeSnaps_Fuzzy_Clustering.ipynb`: Fuzzy clustering using the LifeSnaps dataset.
   - `LifeSnaps_Fuzzy_Splitting.ipynb`: Fuzzy splitting models using the LifeSnaps dataset.
-- **Notebooks** For the SWELL-KW Dataset:
+- **Notebooks** for the SWELL-KW Dataset:
   - `SWELL_Data_Bias.ipynb`: Data bias analysis for the SWELL dataset.
   - `SWELL_Model_Bias.ipynb`: Model bias analysis for the SWELL dataset.
   - `SWELL_Generic_Model.ipynb`: Generic ML model using the SWELL-KW dataset.
