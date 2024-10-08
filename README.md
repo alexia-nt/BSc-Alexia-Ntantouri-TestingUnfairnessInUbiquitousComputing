@@ -1,100 +1,45 @@
 # Testing (Un)fairness in Personalized Machine Learning for Stress Detection in Ubiquitous Computing
-
-<!--- &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE) --->
 > Alexia Ntantouri
 
-A brief description of your project, what it is used for.
+This repository contains the code implementation of my BSc thesis titled **"Testing (Un)fairness in Personalized Machine Learning for Stress Detection in Ubiquitous Computing"** as part of my Bachelor's degree in Computer Science at Aristotle University of Thessaloniki (AUTh).
 
-## Installing / Getting started
+## Table of Contents
+- [Overview](#overview)
+- [Directory Structure](#directory-structure)
+- [Requirements](#requirements)
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+## Overview
+This thesis explores the potential of personalized machine learning (ML) models for stress detection using physiological data from wearable devices, focusing on the critical balance between accuracy and fairness
 
-```shell
-commands here
-```
+## Directory Structure
+- `Final_CSVs/`: Contains the final datasets used in the analysis.
+- `Images/`: Visualizations and figures used in the thesis.
+- `Output_Files/`: Model outputs and result files.
+- `Scored_Surveys/`: Survey results used to evaluate bias.
+- `Thesis.pdf`: The final written thesis document.
+- **Notebooks** For the LifeSnaps Dataset:
+  - `LifeSnaps_Data_Bias.ipynb`: Data bias analysis for the LifeSnaps dataset.
+  - `LifeSnaps_Model_Bias.ipynb`: Model bias analysis for the LifeSnaps dataset.
+  - `LifeSnaps_User_Based_Splitting.ipynb`: User-based splitting models using the LifeSnaps dataset.
+  - `LifeSnaps_Single_Attribute_Splitting.ipynb`: Single-Attribute splitting models using the LifeSnaps dataset.
+  - `LifeSnaps_Multi_Attribute_Splitting.ipynb`: Multi-Attribute splitting models using the LifeSnaps dataset.
+  - `LifeSnaps_Fuzzy_Clustering.ipynb`: Fuzzy clustering using the LifeSnaps dataset.
+  - `LifeSnaps_Fuzzy_Splitting.ipynb`: Fuzzy splitting models using the LifeSnaps dataset.
+- **Notebooks** For the SWELL-KW Dataset:
+  - `SWELL_Data_Bias.ipynb`: Data bias analysis for the SWELL dataset.
+  - `SWELL_Model_Bias.ipynb`: Model bias analysis for the SWELL dataset.
+  - `SWELL_Generic_Model.ipynb`: Generic ML model using the SWELL-KW dataset.
+  - `SWELL_User_Based_Splitting.ipynb`: User-Based splitting models using the SWELL-KW dataset.
+  - `SWELL_Single_Attribute_Splitting.ipynb`: Single-Attribute splitting models using the SWELL-KW dataset.
+  - `SWELL_Multi_Attribute_Splitting.ipynb`: Multi-Attribute splitting models using the SWELL-KW dataset.
+  - `SWELL_Fuzzy_Clustering.ipynb`: Fuzzy clustering using the SWELL-KW dataset.
+  - `SWELL_Fuzzy_Splitting.ipynb`: Fuzzy splitting models using the SWELL-KW dataset.
 
-Here you should say what actually happens when you execute the code above.
-
-## Developing
-
-### Built With
-List main libraries, frameworks used including versions (React, Angular etc...)
-
-### Prerequisites
-What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
-
-
-### Setting up Dev
-
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
-
-```shell
-git clone https://github.com/your/your-project.git
-cd your-project/
-packagemanager install
-```
-
-And state what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
-
-### Building
-
-If your project needs some additional steps for the developer to build the
-project after some code changes, state them here. for example:
-
-```shell
-./configure
-make
-make install
-```
-
-Here again you should state what actually happens when the code above gets
-executed.
-
-### Deploying / Publishing
-give instructions on how to build and release a new version
-In case there's some step you have to take that publishes this project to a
-server, this is the right time to state it.
-
-```shell
-packagemanager deploy your-project -s server.com -u username -p password
-```
-
-And again you'd need to tell what the previous code actually does.
-
-## Versioning
-
-We can maybe use [SemVer](http://semver.org/) for versioning. For the versions available, see the [link to tags on this repository](/tags).
-
-
-## Configuration
-
-Here you should write what are all of the configurations a user can enter when using the project.
-
-## Tests
-
-Describe and show how to run the tests with code examples.
-Explain what these tests test and why.
-
-```shell
-Give an example
-```
-
-## Style guide
-
-Explain your code style and show how to check it.
-
-## Api Reference
-
-If the api is external, link to api documentation. If not describe your api including authentication methods as well as explaining all the endpoints with their required parameters.
-
-
-## Database
-
-Explaining what database (and version) has been used. Provide download links.
-Documents your database design and schemas, relations etc... 
-
-## Licensing
-
-State what the license is and how to find the text version of the license.
+## Requirements
+To run the notebooks, you'll need the following Python libraries:
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
+- `fuzzy-c-means`
