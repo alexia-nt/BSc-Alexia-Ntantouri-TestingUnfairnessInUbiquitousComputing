@@ -3,6 +3,8 @@
 
 This repository contains the code implementation of my BSc thesis titled **"Testing (Un)fairness in Personalized Machine Learning for Stress Detection in Ubiquitous Computing"** as part of my Bachelor's degree in Computer Science at Aristotle University of Thessaloniki (AUTh).
 
+**Note:** The ML models included in this repository are based on Vasiliki Parousidou's work, who benchmarked personalized ML algorithms for stress detection and are not built from scratch (https://github.com/vickypar/personalized.ml.for.stress.detection).
+
 ## Table of Contents
 - [Overview](#overview)
 - [Directory Structure](#directory-structure)
